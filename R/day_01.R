@@ -1,6 +1,6 @@
 library(dplyr)
 
-input <- readLines("input-day01")
+input <- readLines("input/input-day01")
 input_num <- as.numeric(input)
 
 elf_start = 1
